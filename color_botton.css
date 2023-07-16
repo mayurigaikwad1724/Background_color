@@ -1,0 +1,21 @@
+#Box{
+    width: 400px;
+    height: 400px;
+    margin: auto;
+    border: 1px solid black;
+}
+#red{
+  margin: 30px 30px 30px 780px;
+  text-align: center;
+
+}
+#yellow{
+  margin: 30px;
+  text-align: center;
+
+}
+#green{
+  margin: 30px;
+  text-align: center;
+
+}
